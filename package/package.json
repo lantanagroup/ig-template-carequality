@@ -1,13 +1,13 @@
 ﻿{
-  "name": "carequality.fhir.template",
-  "type": "fhir.template",
-  "license": "CC0-1.0",
-  "description": "Carequality FHIR Template - for use with Carequality-published FHIR IGs",
-  "author": "http://hl7.org/fhir",
-  "canonical": "http://fhir.org/templates/carequality.fhir.template",
-  "base": "hl7.base.template",
-  "dependencies": {
-    "hl7.base.template": "current"
-  },
-  "version": "0.1.0"
+"name": "sequoia.fhir.template",
+"version": "0.1.0",
+"type": "fhir.template",
+"license": "CC0-1.0",
+"description": "Sequoia Project FHIR Template",
+"author": "http://lantanagroup.com",
+"canonical": "http://sequoiaproject.org/templates/sequoia.fhir.template",
+"base": "fhir.base.template",
+"dependencies": {
+    "fhir.base.template": "current"
+    }
 }
